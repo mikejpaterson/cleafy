@@ -472,9 +472,8 @@ h6,
 #menu-h .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#content8-j .mbr-section-title,
-#content8-j p {
-  text-align: right;
+#msg-box6-q .mbr-section-title,
+#msg-box6-q .lead p {
   color: #fff;
 }
 #features4-c .card-subtitle {
@@ -483,4 +482,10 @@ h6,
 #features4-c .iconbox {
   background-color: #f2f2f2;
   border-color: #f2f2f2;
+}
+#header6-k .mbr-section-title {
+  color: #28262b;
+}
+#header6-k .mbr-section-text {
+  color: #565656;
 }
