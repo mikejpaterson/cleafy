@@ -685,7 +685,7 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#28324e"
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -696,7 +696,7 @@
           "_params": {
             "paddingTop": "6",
             "paddingBottom": "2",
-            "bgColor": "#bfdff1",
+            "bgColor": "#2969b0",
             "showMeta": false
           },
           "title": "Leap-frogging Current Industry Standards",
@@ -710,14 +710,14 @@
           "_styles": {
             "P": {
               "font-size": "20px",
-              "color": "#28324e"
+              "color": "#ffffff"
             }
           },
           "_anchor": "content1-12",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#bfdff1"
+            "bgColor": "#2969b0"
           },
           "text": "<p>Current web security products rely on signature or web-based DOM scan methods. The very nature of how pages are uniquely assembled inside a browser renders this approach thoroughly inadequate against today’s sophisticated attacks. The extensive use of mobile APIs accelerates software development and delivers a seamless integration between enterprise applications and mobile apps.</p><p><br></p><p>These benefits come at a cost: a significant expansion of the attack surface.</p><p><br></p><p>Cleafy inspects the app processes during API consumption, analyzes user behavior and collects critical context variables to single out tampering attempts.</p><p><br></p>"
         },
