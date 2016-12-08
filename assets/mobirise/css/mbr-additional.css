@@ -1,6 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
+
+
 
 
 
@@ -418,22 +423,23 @@ h6,
   color: #ffffff;
 }
 #menu-h .navbar-toggler {
-  color: #ffffff;
+  color: #22beef;
 }
 #menu-h .close-icon::before,
 #menu-h .close-icon::after {
-  background-color: #ffffff;
+  background-color: #22beef;
 }
 #menu-h .link,
 #menu-h .dropdown-item {
-  color: #ffffff;
+  color: #22beef;
+  font-family: 'Raleway', sans-serif;
 }
 #menu-h .link {
-  font-size: 0.75rem;
+  font-size: 1.1rem;
 }
 #menu-h .dropdown-item,
 #menu-h .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.191rem;
 }
 #menu-h .link:hover,
 #menu-h .dropdown-item:hover,
@@ -443,22 +449,22 @@ h6,
 }
 #menu-h .link[aria-expanded="true"],
 #menu-h .dropdown-menu {
-  background: #e6e6e6;
+  background: #000000;
 }
 #menu-h .nav-dropdown-sm .link:focus,
 #menu-h .nav-dropdown-sm .link:hover,
 #menu-h .nav-dropdown-sm .dropdown-item:focus,
 #menu-h .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
+  background: #000000!important;
 }
 #menu-h .navbar,
 #menu-h .nav-dropdown-sm,
 #menu-h .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-h .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
+  background: #000000;
 }
 #menu-h .bg-color.transparent .link {
-  color: #ffffff;
+  color: #22beef;
   transition: none;
 }
 #menu-h .bg-color.transparent.opened .link {
@@ -472,20 +478,137 @@ h6,
 #menu-h .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box6-q .mbr-section-title,
-#msg-box6-q .lead p {
-  color: #fff;
+#menu-h.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-h .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-h .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-h .btn {
+  font-size: 14px;
+}
+#slider-r H2 {
+  font-size: 36px;
+}
+#slider-r P {
+  font-size: 20px;
+}
+#slider-r SPAN {
+  font-size: 20px;
+  font-family: 'Raleway', sans-serif;
+}
+#slider-r .btn {
+  font-size: 24px;
+}
+#msg-box4-18 P {
+  font-size: 20px;
+  color: #ffffff;
+  text-align: right;
+}
+#msg-box4-18 H3 {
+  color: #ffffff;
 }
 #features4-c .card-subtitle {
-  color: #bcbcbc;
+  color: #475577;
+  font-size: 19px;
 }
 #features4-c .iconbox {
+  background-color: #7e9b9f;
+  border-color: #7e9b9f;
+}
+#features4-c H4 {
+  font-size: 32px;
+  color: #28324e;
+}
+#features4-c .card-subtitle DIV {
+  font-size: 20px;
+}
+#features4-c P {
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+}
+#features4-c .card-subtitle SPAN {
+  font-size: 20px;
+}
+#header3-1q .mbr-section-title,
+#header3-1q .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1q H3 {
+  font-size: 36px;
+  color: #28324e;
+}
+#header3-1q SMALL {
+  color: #28324e;
+}
+#header3-1q SPAN {
+  font-size: 20px;
+  font-family: 'Raleway', sans-serif;
+}
+#features4-1j .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-1j .iconbox {
   background-color: #f2f2f2;
   border-color: #f2f2f2;
 }
-#header6-k .mbr-section-title {
-  color: #28262b;
+#features4-1j H4 {
+  font-size: 32px;
+  color: #ffffff;
 }
-#header6-k .mbr-section-text {
-  color: #565656;
+#features4-1j P {
+  font-size: 20px;
+  color: #ffffff;
+}
+#header3-19 .mbr-section-title,
+#header3-19 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-19 H3 {
+  color: #28324e;
+}
+#content1-12 P {
+  font-size: 20px;
+  color: #28324e;
+}
+#msg-box3-1l .mbr-section-title,
+#msg-box3-1l p {
+  color: #000;
+}
+#msg-box3-1l .mbr-section-title {
+  font-size: 36px;
+  color: #28324e;
+}
+#msg-box3-1l .lead P {
+  font-size: 20px;
+}
+#content6-1o P {
+  color: #28324e;
+  font-size: 20px;
+}
+#header3-x .mbr-section-title,
+#header3-x .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-x H3 {
+  color: #28324e;
+}
+#msg-box5-14 P {
+  font-size: 20px;
+}
+#form1-1g .form-control-label {
+  color: #28324e;
+}
+#form1-1g .mbr-section-title {
+  color: #ffffff;
+}
+#form1-1g SMALL {
+  color: #ffffff;
+}
+#form1-1g .btn {
+  font-size: 14px;
 }
